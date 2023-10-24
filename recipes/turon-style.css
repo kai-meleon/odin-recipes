@@ -1,0 +1,35 @@
+* {
+    font-family: Helvetica, Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#container {
+    border: 2px solid #006400;
+}
+.title {
+    font-weight: 800;
+    font-size: 28px;
+}
+.avatar.proportioned {
+    width: auto;
+    height: 300px;
+}
+.title .heading {
+   font-size: 22px;
+}
+.description {
+    font-size: 14px;
+    line-height: normal;
+    text-align: justify;
+}
+.subheading {
+    font-size: 14px;
+    font-weight: 700;
+}
+.bullets {
+    font-size: 14px;
+}
+#justify {
+    text-align: justify;
+}
