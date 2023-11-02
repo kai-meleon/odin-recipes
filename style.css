@@ -3,8 +3,23 @@
     line-height: 1.5;
     margin-left: 50px;
     margin-right: 50px;
+    text-align: center;
 }
-.recipes {
-    font-size: 22px;
-    color:black;
+#container {
+    border: 5px dotted #c9e4e7;
+}
+h1 {
+    background-color: #c9e4e7;
+    color:white;
+}
+li {
+cursor: pointer;
+background-color: #ecf2f7;
+padding: 5px;
+font-size: 16px;
+font-weight: 600;
+color: white;
+margin-bottom: 30px;
+margin-left: 250px;
+width: 400px;
 }

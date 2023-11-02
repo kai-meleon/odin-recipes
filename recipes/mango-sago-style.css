@@ -5,17 +5,22 @@
     margin-right: 50px;
 }
 #container {
-    border: 2px solid #FFDB58;
+    border: 5px dotted #FFDB58;
+    padding-bottom: 30px;
 }
 .title {
     font-weight: 800;
-    font-size: 28px;
+    font-size: 36px;
+    text-align: center;
+    margin: 15px 15px;
 }
 .avatar.proportioned {
+    display: block;
     width: 300px;
     height: 300px;
+    margin: auto;
 }
-.title .heading {
+.title.heading {
     font-size: 22px;
 }
 .description {
@@ -29,6 +34,7 @@
 }
 .bullets {
     font-size: 14px;
+    margin-bottom: 14px;
 }
 #justify {
     text-align: justify;
